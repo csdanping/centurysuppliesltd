@@ -1,0 +1,19 @@
+body { }
+
+p { }
+
+td { }
+
+a:link { color: #00385f; }
+
+a:visited { color: #00385f; }
+
+a:hover { color: #b68500; }
+
+a:active { color: #00385f; }
+.background { background-image: url(../homepage/background.gif); background-repeat: repeat-x; background-attachment: scroll; }
+.copyright { font-size: 10px; font-family: verdana; line-height: 13px; text-decoration: none; }
+.text { font-size: 12px; font-family: verdana; line-height: 18px; text-decoration: none; }
+.leftside { background-image: url(../interior/leftside_inside.gif); background-repeat: repeat-y; }
+.rightside { background-image: url(../interior/right_inside.gif); background-repeat: repeat-y; }
+.title { color: #22395c; font-size: 25px; font-family: georgia; line-height: 28px; }
